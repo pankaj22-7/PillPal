@@ -1,4 +1,4 @@
-# 📱 PillPal – Smart Medication Assistant (Demo App)
+# 📱 PillPal – Smart Medication Assistant 
 
 PillPal is a **demo mobile application** built using **Expo (React Native)** to help users track their daily medications with reminders, notifications, camera input, and a clean dashboard UI.  
 This project is not production-ready and uses sample/demo data, but it demonstrates **end-to-end mobile app development**, authentication, cloud integration, scheduling, and UI design.
@@ -75,7 +75,8 @@ This project is not production-ready and uses sample/demo data, but it demonstra
 ## ▶️ How to Run Locally
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/YOUR_USERNAME/PillPal.git
+git clone https://github.com/pankaj22-7/PillPal.git
+
 cd PillPal
 
 ### 2️⃣ Install dependencies
