@@ -41,8 +41,6 @@ This project is not production-ready and uses sample/demo data, but it demonstra
 
 ## 🖼️ Screenshots
 
-> Place your screenshots inside a folder named `/screenshots` in the root of your GitHub repo.  
-> Use these filenames to match the README.
 
 ### 📍 Home / Today’s Schedule  
 ![Home](./screenshots/home.jpg)
@@ -71,12 +69,6 @@ This project is not production-ready and uses sample/demo data, but it demonstra
 | Camera | Expo Camera |
 | UI | React Native Components |
 | Platform | Android / iOS |
-
----
-
-## ⚠️ Demo Disclaimer
-This project is a **prototype/demo**, created for learning and portfolio purposes.  
-Some features use placeholder data and are not production-ready.
 
 ---
 
